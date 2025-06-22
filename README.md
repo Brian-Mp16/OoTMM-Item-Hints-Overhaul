@@ -16,6 +16,7 @@ https://ootmm.com/
 
 
 ------------------ Program Description ------------------
+
 This program gives the player various hints in exchange for Coins collected in game. These Coins are unused objects in Majora's Mask that an OoTMM randomizer can implement as collectibles that can be used for special conditions such as access to enter Majora's boss chamber. As you collects coins, you can manually increasing the coin counter in the program and from there, exchange them for hints at your own convenience. The different coins are explained in detail below.
 
 CURRENTLY this program only fully functions with the shuffled items as in my specific OoTMM settings. You can find my settings string in my Discord under #my-oot-documents.
@@ -24,6 +25,7 @@ FUTURE UPDATES will allow any settings string to work as well as multiplayer see
 
 
 ---------------- How to use this Program ----------------
+
 1) Increase the respective coin counters with the up and down arrows for each coins as you find them in the game. Click a coin image itself to see the hints it can provide.
 
 2) In the specific coin screen, click the 'Select your OoTMM Spoiler Log' button and provide an OoTMM spoiler log. The program will autosave data in this folder now. You can reset your data on the Green Coin screen.
@@ -36,6 +38,7 @@ FUTURE UPDATES will allow any settings string to work as well as multiplayer see
 
 
 ---------------------- Coin Types -----------------------
+
 Yellow:
   - Gives a specific location hint.
   - Recommended amount in game: 50-99
@@ -54,6 +57,7 @@ Green:
 
 
 ---------------------- Final Notes -----------------------
+
 I will be playtesting this to see how helpful it is and potentially change some aspects of the program accoringly as well as recommended coin amounts. The goal is to make it so the player doesn't get bottlenecked in finding one specific item as frequently or to simply provide the player hints if stuck. It is still up to the player to determine what they need in that moment and if its worth spending a limited resource Coin to do so.
 
 This program ideally aids in a faster randomizer completion time, less need to nearly 100% both OoT and MM every time, and some helpful limited hints if they simply get stuck. I am also open to feedback and additional ideas to improve this concept. Please let me know in my Discord under the #zelda-vr channel. Enjoy!
