@@ -1,0 +1,381 @@
+A Button
+Adult Fish
+Adult Loach
+All-Night Mask
+Blast Mask
+Blue Potion (MM)
+Bolero of Fire
+Bombchu Bag
+Bombers' Notebook
+Boomerang
+Boss Key (Fire Temple)
+Boss Key (Forest Temple)
+Boss Key (Ganon's Castle)
+Boss Key (Great Bay Temple)
+Boss Key (Shadow Temple)
+Boss Key (Snowhead Temple)
+Boss Key (Spirit Temple)
+Boss Key (Stone Tower Temple)
+Boss Key (Water Temple)
+Boss Key (Woodfall Temple)
+Bottle (MM)
+Bottle (OoT)
+Bottle of Chateau Romani
+Bottle of Gold Dust
+Bremen Mask
+Broken Goron's Sword
+Bunny Hood
+Captain's Hat
+C-Down Button
+Chateau Romani Refill (MM)
+Chicken
+Child Fish
+Child Loach
+Circus Leader's Mask
+Claim Check
+C-Left Button
+Coin (Blue)
+Coin (Green)
+Coin (Red)
+Cojiro
+Couple's Mask
+C-Right Button
+C-Up Button
+Deku Mask
+Deku Nut Upgrade
+Deku Shield (MM)
+Deku Shield (OoT)
+Deku Stick Upgrade
+Din's Fire
+Don Gero's Mask
+Double Defense
+Elegy of Emptiness
+Epona's Song
+Eye Drops
+Eyeball Frog
+Fairy Bow (OoT)
+Fairy Slingshot
+Farore's Wind
+Fierce Deity's Mask
+Garo's Mask
+Gerudo Mask
+Gerudo's Membership Card
+Giant's Mask
+Gibdo Mask
+Goron Mask
+Goron Tunic
+Goron's Ruby
+Great Fairy's Mask
+Great Fairy's Sword
+Heart Container
+Hero's Bow (MM)
+Hero's Shield
+Hookshot (MM)
+Hover Boots
+Hylian Shield
+Iron Boots
+Kafei's Mask
+Kamaro's Mask
+Keaton Mask
+Key Ring (Chest Game)
+Key Ring (Fire)
+Key Ring (Forest)
+Key Ring (Ganon)
+Key Ring (Great Bay)
+Key Ring (GTG)
+Key Ring (Hideout)
+Key Ring (Shadow)
+Key Ring (Snowhead)
+Key Ring (Spirit)
+Key Ring (Stone Tower)
+Key Ring (Water)
+Key Ring (Well)
+Key Ring (Woodfall)
+Land Title Deed
+Lens of Truth
+Letter to Kafei
+Letter to Mama
+Magic Bean (MM)
+Magic Beans (OoT)
+Mask of Scents
+Mask of Truth
+Master Sword
+Megaton Hammer
+Minuet of Forest
+Mirror Shield (MM)
+Mirror Shield (OoT)
+Moon's Tear
+Mountain Title Deed
+Nayru's Love
+New Wave Bossa Nova
+Nocturne of Shadow
+Oath to Order
+Ocean Skulltula Token
+Ocean Title Deed
+Odd Mushroom
+Odd Potion
+Owl Statue (Clock Town)
+Owl Statue (Great Bay)
+Owl Statue (Ikana Canyon)
+Owl Statue (Milk Road)
+Owl Statue (Mountain Village)
+Owl Statue (Snowhead)
+Owl Statue (Southern Swamp)
+Owl Statue (Stone Tower)
+Owl Statue (Woodfall)
+Owl Statue (Zora Cape)
+Pendant of Memories
+Pictograph Box
+Poacher's Saw
+Pocket Cucco
+Pocket Egg
+Postman's Hat
+Powder Keg
+Prelude of Light
+Prescription
+Progressive Clock
+Progressive Goron Lullaby
+Progressive Goron Sword
+Progressive Hookshot (OoT)
+Progressive Ocarina
+Progressive Scale
+Progressive Strength
+Progressive Sword (MM)
+Progressive Sword (OoT)
+Progressive Wallet
+Rainbow Rupee
+Red Potion (MM)
+Requiem of Spirit
+Romani Milk
+Romani's Mask
+Room Key
+Ruto's Letter
+Saria's Song
+Serenade of Water
+Shared Bomb Bag
+Shared Fire Arrows
+Shared Ice Arrows
+Shared Light Arrows
+Shared Magic Upgrade
+Silver Rupee (Bottom of the Well)
+Silver Rupee (Dodongo's Cavern)
+Silver Rupee (Ganon's Castle - Fire Trial)
+Silver Rupee (Ganon's Castle - Forest Trial)
+Silver Rupee (Ganon's Castle - Light Trial)
+Silver Rupee (Ganon's Castle - Shadow Trial)
+Silver Rupee (Ganon's Castle - Spirit Trial)
+Silver Rupee (Ganon's Castle - Water Trial)
+Silver Rupee (Gerudo Training Ground - Lava)
+Silver Rupee (Gerudo Training Ground - Slopes)
+Silver Rupee (Gerudo Training Ground - Water)
+Silver Rupee (Ice Cavern - Block)
+Silver Rupee (Ice Cavern - Scythe)
+Silver Rupee (Shadow Temple - Invisible Blades)
+Silver Rupee (Shadow Temple - Large Pits)
+Silver Rupee (Shadow Temple - Scythe)
+Silver Rupee (Shadow Temple - Spikes)
+Silver Rupee (Spirit Temple - Adult)
+Silver Rupee (Spirit Temple - Boulders)
+Silver Rupee (Spirit Temple - Child)
+Silver Rupee (Spirit Temple - Lobby)
+Silver Rupee (Spirit Temple - Sun Block)
+Silver Rupee Pouch (Bottom of the Well)
+Silver Rupee Pouch (Dodongo's Cavern)
+Silver Rupee Pouch (Ganon's Castle - Fire Trial)
+Silver Rupee Pouch (Ganon's Castle - Forest Trial)
+Silver Rupee Pouch (Ganon's Castle - Light Trial)
+Silver Rupee Pouch (Ganon's Castle - Shadow Trial)
+Silver Rupee Pouch (Ganon's Castle - Spirit Trial)
+Silver Rupee Pouch (Ganon's Castle - Water Trial)
+Silver Rupee Pouch (Gerudo Training Ground - Lava)
+Silver Rupee Pouch (Gerudo Training Ground - Slopes)
+Silver Rupee Pouch (Gerudo Training Ground - Water)
+Silver Rupee Pouch (Ice Cavern - Block)
+Silver Rupee Pouch (Ice Cavern - Scythe)
+Silver Rupee Pouch (Shadow Temple - Invisible Blades)
+Silver Rupee Pouch (Shadow Temple - Large Pits)
+Silver Rupee Pouch (Shadow Temple - Scythe)
+Silver Rupee Pouch (Shadow Temple - Spikes)
+Silver Rupee Pouch (Spirit Temple - Adult)
+Silver Rupee Pouch (Spirit Temple - Boulders)
+Silver Rupee Pouch (Spirit Temple - Child)
+Silver Rupee Pouch (Spirit Temple - Lobby)
+Silver Rupee Pouch (Spirit Temple - Sun Block)
+Skull Mask
+Small Key (Bottom of the Well)
+Small Key (Chest Game)
+Small Key (Fire Temple)
+Small Key (Forest Temple)
+Small Key (Ganon's Castle)
+Small Key (Gerudo's Fortress)
+Small Key (Gerudo's Training Ground)
+Small Key (Great Bay Temple)
+Small Key (Shadow Temple)
+Small Key (Snowhead Temple)
+Small Key (Spirit Temple)
+Small Key (Stone Tower Temple)
+Small Key (Water Temple)
+Small Key (Woodfall Temple)
+Sonata of Awakening
+Song of Healing
+Song of Soaring
+Song of Storms
+Song of Time
+Soul of Anubis
+Soul of Armos
+Soul of Baby Dodongos
+Soul of Bad Bats
+Soul of Barinade
+Soul of Beamos
+Soul of Biggoron
+Soul of Bio Babas
+Soul of Biris/Baris
+Soul of Blacksmiths
+Soul of Boes
+Soul of Bombchu Bowling/Chest Game Lady
+Soul of Bongo Bongo
+Soul of Bubbles
+Soul of Business Scrubs
+Soul of Captain Keeta
+Soul of Carpenters
+Soul of Chuchus
+Soul of Citizens
+Soul of Composer Bros.
+Soul of Cucco Lady/Anju
+Soul of Dampe
+Soul of Dark Link
+Soul of Darunia
+Soul of Dead Hands
+Soul of Deep Pythons
+Soul of Deku Babas
+Soul of Deku Scrubs
+Soul of Dexihands
+Soul of Dodongos
+Soul of Dragonflies
+Soul of Eenoes
+Soul of Eyegores
+Soul of Fighting Thieves
+Soul of Fishing Pond/Trading Post Owner
+Soul of Flare Dancers
+Soul of Floormasters
+Soul of Flying Pots
+Soul of Freezards
+Soul of Garo
+Soul of Gekkos
+Soul of Gohma Larvaes
+Soul of Goht
+Soul of Gold Skulltulas
+Soul of Gomess
+Soul of Gorons
+Soul of Guays
+Soul of Guru-Guru
+Soul of Gyorg
+Soul of Hiploops
+Soul of Honey & Darling
+Soul of Hylian Guard
+Soul of Igos
+Soul of Ingo/Gorman & Bros.
+Soul of Iron Knuckles
+Soul of Jabu-Jabu's Parasites
+Soul of Kafei
+Soul of Keaton
+Soul of Keese
+Soul of King Dodongo
+Soul of King Zora
+Soul of Kokiri
+Soul of Kokiri Shopkeeper
+Soul of Koume and Kotake
+Soul of Leevers
+Soul of Like Likes
+Soul of Lizalfos/Dinolfos
+Soul of Madame Aroma (MM)
+Soul of Malon/Romani/Cremia
+Soul of Mayor Dotour
+Soul of Medigoron/Keg Trial Goron
+Soul of Mido
+Soul of Moblins
+Soul of Moon Children
+Soul of Morpha
+Soul of Nejirons
+Soul of Octoroks
+Soul of Odolwa
+Soul of Peahats
+Soul of Phantom Ganon
+Soul of Playground Scrubs
+Soul of Poe Collector/Ghost Hut Owner
+Soul of Potion Shopkeeper
+Soul of Queen Gohma
+Soul of Real Bombchu
+Soul of ReDeads/Gibdos
+Soul of Rooftop Man/Part-Timer
+Soul of Ruto/Lulu
+Soul of Saria
+Soul of Shaboms
+Soul of Sheik
+Soul of Shell Blades
+Soul of Skull Kids (OoT)
+Soul of Skullfish (MM)
+Soul of Skulltulas
+Soul of Skullwalltulas
+Soul of Snappers
+Soul of Spikes
+Soul of Stalchildren
+Soul of Stalfos (OoT)
+Soul of Stingers
+Soul of Tailpasarans
+Soul of Takkuri
+Soul of Talon/Mr. Barten
+Soul of Tektites
+Soul of the Astronomer
+Soul of the Bazaar/Swamp Archery Owner
+Soul of the Bean Salesman
+Soul of the Beggar/Banker
+Soul of the Bombchu/Bomb Shop Owner
+Soul of the Carpet Man/Swordsman
+Soul of the Chest Game Owner/Fisherman
+Soul of the Deku Butler
+Soul of the Deku King
+Soul of the Deku Princess
+Soul of the Dog Lady
+Soul of the Goron Child/Baby
+Soul of the Goron Elder
+Soul of the Goron Shopkeeper
+Soul of the Graveyard Kid/Bombers
+Soul of the Old Hag/Anju's Grandmother
+Soul of the Patrolling Thieves and their Chief
+Soul of the Punk Kid/Grog
+Soul of the Scientist
+Soul of the Shooting Gallery/Town Archery Owner
+Soul of the Zora Musicians
+Soul of the Zora Shopkeeper
+Soul of Tingle
+Soul of Toilet Hand
+Soul of Torch Slugs
+Soul of Toto(MM)
+Soul of Tourist Center Owner
+Soul of Twinmold
+Soul of Twinrova
+Soul of Volvagia
+Soul of Wallmasters
+Soul of Warts
+Soul of Wizzrobes
+Soul of Wolfos
+Soul of Zelda
+Soul of Zoras
+Spin Attack Upgrade
+Spooky Mask
+Stone Mask
+Stone of Agony
+Stray Fairy (Clock Town)
+Stray Fairy (Great Bay Temple)
+Stray Fairy (Snowhead Temple)
+Stray Fairy (Stone Tower Temple)
+Stray Fairy (Woodfall Temple)
+Sun's Song (OoT)
+Swamp Skulltula Token
+Swamp Title Deed
+Weird Egg
+Zelda's Letter
+Zelda's Lullaby
+Zora Mask
+Zora Tunic

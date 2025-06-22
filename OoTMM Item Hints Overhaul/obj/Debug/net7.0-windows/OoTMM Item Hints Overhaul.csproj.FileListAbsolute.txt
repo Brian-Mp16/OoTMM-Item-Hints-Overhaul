@@ -1,0 +1,18 @@
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\bin\Debug\net7.0-windows\OoTMM Item Hints Overhaul.exe
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\bin\Debug\net7.0-windows\OoTMM Item Hints Overhaul.deps.json
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\bin\Debug\net7.0-windows\OoTMM Item Hints Overhaul.runtimeconfig.json
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\bin\Debug\net7.0-windows\OoTMM Item Hints Overhaul.dll
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\bin\Debug\net7.0-windows\OoTMM Item Hints Overhaul.pdb
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\obj\Debug\net7.0-windows\OoTMM Item Hints Overhaul.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\obj\Debug\net7.0-windows\OoTMM_Item_Hints_Overhaul.Form1.resources
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\obj\Debug\net7.0-windows\OoTMM_Item_Hints_Overhaul.Properties.Resources.resources
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\obj\Debug\net7.0-windows\OoTMM Item Hints Overhaul.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\obj\Debug\net7.0-windows\OoTMM Item Hints Overhaul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\obj\Debug\net7.0-windows\OoTMM Item Hints Overhaul.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\obj\Debug\net7.0-windows\OoTMM Item Hints Overhaul.AssemblyInfo.cs
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\obj\Debug\net7.0-windows\OoTMM Item Hints Overhaul.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\obj\Debug\net7.0-windows\OoTMM Item Hints Overhaul.dll
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\obj\Debug\net7.0-windows\refint\OoTMM Item Hints Overhaul.dll
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\obj\Debug\net7.0-windows\OoTMM Item Hints Overhaul.pdb
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\obj\Debug\net7.0-windows\OoTMM Item Hints Overhaul.genruntimeconfig.cache
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\obj\Debug\net7.0-windows\ref\OoTMM Item Hints Overhaul.dll

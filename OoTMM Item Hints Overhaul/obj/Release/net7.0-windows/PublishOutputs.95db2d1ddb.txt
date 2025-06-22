@@ -1,0 +1,5 @@
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\bin\Release\net7.0-windows\publish\OoTMM Item Hints Overhaul.exe
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\bin\Release\net7.0-windows\publish\OoTMM Item Hints Overhaul.dll
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\bin\Release\net7.0-windows\publish\OoTMM Item Hints Overhaul.deps.json
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\bin\Release\net7.0-windows\publish\OoTMM Item Hints Overhaul.runtimeconfig.json
+C:\Users\brian\source\repos\OoTMM Item Hints Overhaul\OoTMM Item Hints Overhaul\bin\Release\net7.0-windows\publish\OoTMM Item Hints Overhaul.pdb
