@@ -3,15 +3,19 @@ Please READ this document carefully before downloading.
 Please report any bugs/crashes to BrianMp16's Discord #zelda-vr (https://discord.gg/2F8javw)
 
 You may need to install .NET 7.0 on your computer. Donwload link:
+
 https://dotnet.microsoft.com/en-us/download/dotnet/7.0
 
 OoTMM End-of-Playthrough Item Hint Distributor v1.0 Download Link:
+
 https://mega.nz/file/WSJFFaKY#zxYFcKcVVXc3Mzp-ebn0N8S2Rytd__DxnEl9gMffArg
 
 Open Source is available here:
+
 https://github.com/Brian-Mp16/OoTMM-Item-Hints-Overhaul
 
 OoTMM Randomizer website:
+
 https://ootmm.com/
 
 
